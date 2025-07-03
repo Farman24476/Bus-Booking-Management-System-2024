@@ -1,9 +1,5 @@
 # Bus-Booking Management System for Karma Transport
 
-Developed a user-friendly website using **HTML, CSS, JavaScript, and PHP** that enables online ticket booking, passenger account management, and administrative oversight of routes and drivers.
-
----
-
 ## Project Overview
 
 This project digitizes and automates the traditional bus-booking process, making it more accessible and efficient for both passengers and administrators.  
