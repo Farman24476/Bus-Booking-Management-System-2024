@@ -62,7 +62,7 @@ Send me mail
 
 For questions or collaboration opportunities:  
 
-- Email: md.farmanali200346@gmail.com
-  Organization: Albukhary International University 
+Email: md.farmanali200346@gmail.com
+Organization: Albukhary International University 
 
 ---
